@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Justin's personal website
 
-You can use the [editor on GitHub](https://github.com/guandaquant/guandaquant.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+To access my zhihu, you can click [here](https://www.zhihu.com/people/lang-qian-mo-nian-hua)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
