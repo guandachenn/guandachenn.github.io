@@ -1,8 +1,7 @@
 ## Welcome to Justin's personal website
 
-To access my zhihu, you can click [here](https://www.zhihu.com/people/lang-qian-mo-nian-hua)
+Hello my name is Guanda Chen, from Changsha, Hunan, China. I am studying Mathematics at the University of Warwick. On this website, I want to share my experience, music, projects and my thoughts on different things.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
