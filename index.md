@@ -16,6 +16,7 @@ We did not win, but we learned:
 - My thought is to use data to help retail store maintaining their business.
 
 2. [Case Competition](guandachenn/guandachenn.github.io/WCG_Guanda Chen.pdf)
+<a href="https://my.github.io/files/paper.pdf">mypdf</a>
 - We did research on Automobile market, I developped a mathematical model to analyze the advantages and disadvantages.
 
 3. Research on the Effect of Artificial Intelligience on Education.
