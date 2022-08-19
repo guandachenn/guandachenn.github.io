@@ -15,7 +15,7 @@ We did not win, but we learned:
 1. Entrepreneur Competition
 - My thought is to use data to help retail store maintaining their business.
 
-2. Case Competition
+2. [Case Competition](guandachenn.github.io/WCG_Guanda Chen.pdf)
 - We did research on Automobile market, I developped a mathematical model to analyze the advantages and disadvantages.
 
 3. Research on the Effect of Artificial Intelligience on Education.
