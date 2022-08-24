@@ -7,7 +7,7 @@ Hello my name is Guanda Chen, from Changsha, Hunan, China. I am studying Mathema
 #### Quant: Confirming my first career direction on Quantitative trading on 2022 summer:
 I will update the effort I put on this web. 
 
-[The ways of turtles](https://github.com/guandachenn/quant_the_ways_of_turtle) is the first book on trading I have ever read, I have quantified the strategy by python, however, this is the project mostly by others from open resources. But I have coded again line by line by myself again, and I learned that to program a useful system, we need to have 3 factors: 
+[The ways of turtles](https://github.com/guandachenn/quant_the_ways_of_turtle) is the first book on trading I have ever read, I have quantified the strategy by python, however, this is the project mostly done by others from open resources. But I have coded again line by line by myself again, and I learned that to program a useful system, we need to have 3 factors: 
 
 1. Find theTrading signals
 2. Getting the data
